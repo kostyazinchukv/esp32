@@ -1,0 +1,5 @@
+.vscode/*
+build/*
+main/*
+README.md
+.gitignore
